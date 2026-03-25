@@ -10,7 +10,7 @@
 | Jon Clindaniel                                                                                                                           | Yangyu Wang           | Stanley Yi             | Location: 1155 E. 60th Street, Rm. 140C |
 | 1155 E. 60th Street, Rm. 215                                                                                                             |                       |                        | Monday/Wednesday Lecture, Friday Lab    |
 | jclindaniel@uchicago.edu                                                                                                                 | wangyd@uchicago.edu   | yijiaying@uchicago.edu | 4:30-5:50 PM (CT)                       |
-| **Office Hours:** Drop-In (No appointment needed): Tuesday 2:00-4:00pm <br/><br/> [Schedule an Appointment][jon_oh] Thursday 2:00-4:00pm | **Office Hours:** TBD | **Office Hours:** Mon & Wed 3:30-4:30pm  | [Canvas Course Site][canvas_url]        |
+| **Office Hours:** Drop-In (No appointment needed): Tuesday 2:00-4:00pm <br/><br/> [Schedule an Appointment][jon_oh] Thursday 2:00-4:00pm | **Office Hours:** Fri 2:30-4:30pm | **Office Hours:** Mon & Wed 3:30-4:30pm  | [Canvas Course Site][canvas_url]        |
 
 ## Course Description
 
