@@ -1,0 +1,6 @@
+Time Elapsed (CPU):  2.395752429962158
+Time Elapsed (Random Number Generation on GPU):  0.491382360458374
+Time Elapsed (Pythonic Map):  0.6859004497528076
+Time Elapsed (Pythonic Map + Reduce):  0.9763977527618408
+Time Elapsed (Elementwise Map + Reduction Kernel):  0.5840802192687988
+Time Elapsed (Combined Map + Reduce):  0.2259063720703125
